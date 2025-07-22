@@ -52,7 +52,7 @@ Sample Data:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/fraud-detection.git
+   git clone https://github.com/HarshalNikhade/Payment-Fraud-Detection-.git
    cd fraud-detection
    ```
 
